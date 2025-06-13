@@ -22,6 +22,8 @@
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 #### Tecnologías
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -30,6 +32,7 @@
 ![Tkinter](https://img.shields.io/badge/-Tkinter-333333?style=for-the-badge&logo=python&logoColor=white)
 ![SUMO](https://img.shields.io/badge/-SUMO-005571?style=for-the-badge&logo=data&logoColor=white)
 ![Kinect](https://img.shields.io/badge/-Kinect-00ADEF?style=for-the-badge&logo=xbox&logoColor=white)
+![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 
 ---
 
@@ -41,11 +44,10 @@
 
 ---
 
-### 📂 Algunos Repositorios Destacados
-- 🔧 [Simulador Urbano SUMO](https://github.com/EfrenDev/sumo-urban-sim)
-- 🤖 [OptiScan3D – Reconocimiento con Kinect](https://github.com/EfrenDev/optiscan3d)
-- 🧠 [Algoritmos de Optimización Multiobjetivo (MOPSO)](https://github.com/EfrenDev/mopso)
-- 🔐 [Proyecto de Ciberseguridad Básica](https://github.com/EfrenDev/ciberseguridad101)
+### 📁 Repositorios Públicos
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EfrenDev&theme=radical" width="90%" />
+</p>
 
 ---
 
