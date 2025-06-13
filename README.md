@@ -11,7 +11,6 @@
 ### 🧠 Sobre mí
 - 🎓 Estudiante en la BUAP
 - 🌱 Aprendiendo sobre **inteligencia artificial, ciberseguridad** y **sistemas distribuidos**
-- ⚡ Fun fact: Me gusta analizar sistemas complejos como el tráfico urbano 🚦
 
 ---
 
@@ -33,10 +32,7 @@
 ---
 
 ### 📂 Algunos Repositorios Destacados
-- 🔧 [Simulador Urbano SUMO](https://github.com/EfrenDev/sumo-urban-sim)
-- 🤖 [OptiScan3D – Reconocimiento con Kinect](https://github.com/EfrenDev/optiscan3d)
-- 🧠 [Algoritmos de Optimización Multiobjetivo (MOPSO)](https://github.com/EfrenDev/mopso)
-- 🔐 [Proyecto de Ciberseguridad Básica](https://github.com/EfrenDev/ciberseguridad101)
+- 🔧 [Simulador Urbano SUMO](https://github.com/efren78/simulador-urbano)
 
 
 ---
