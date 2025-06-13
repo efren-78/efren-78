@@ -32,7 +32,7 @@
 ---
 
 ### 📂 Algunos Repositorios Destacados
-- 🔧 [Simulador Urbano SUMO](https://github.com/efren78/simulador-urbano)
+- 🔧 [Simulador Urbano SUMO](https://github.com/efren-78/simulador-urbano)
 
 
 ---
