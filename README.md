@@ -2,15 +2,14 @@
 <h3 align="center">Estudiante de Ingeniería en Ciencias de la Computación</h3>
 
 <p align="center">
-  💻 Apasionado por la computación, el aprendizaje continuo y la creación de soluciones inteligentes.<br>
-  🚀 Buscando crecer como profesional en tecnología, IA, y otras disciplinas.<br>
+  💻 Apasionado por la computación, el aprendizaje continuo y la creación de soluciones inteligente.<br>
+  🚀 Buscando crecer como profesional en tecnología, IA, ciberseguridad y electronica.<br>
 </p>
 
 ---
 
 ### 🧠 Sobre mí
 - 🎓 Estudiante en la BUAP
-- 🔭 Actualmente trabajando en un **simulador urbano con SUMO y Python**
 - 🌱 Aprendiendo sobre **inteligencia artificial, ciberseguridad** y **sistemas distribuidos**
 - ⚡ Fun fact: Me gusta analizar sistemas complejos como el tráfico urbano 🚦
 
