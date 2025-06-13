@@ -36,14 +36,6 @@
 
 ---
 
-### 📈 Estadísticas GitHub
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EfrenDev&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EfrenDev&layout=compact&theme=radical" width="48%" />
-</p>
-
----
-
 ### 📁 Repositorios Públicos
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=EfrenDev&theme=radical" width="90%" />
@@ -52,9 +44,6 @@
 ---
 
 ### 📫 Contacto
-[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tuemail@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tuusuario)
+[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:curiefren78@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/EfrenCuri)
 
----
-
-<p align="center">⭐ ¡Gracias por visitar mi perfil! ⭐</p>
