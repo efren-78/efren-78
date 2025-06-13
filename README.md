@@ -27,18 +27,17 @@
 #### Tecnologías
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Tkinter](https://img.shields.io/badge/-Tkinter-333333?style=for-the-badge&logo=python&logoColor=white)
 ![SUMO](https://img.shields.io/badge/-SUMO-005571?style=for-the-badge&logo=data&logoColor=white)
-![Kinect](https://img.shields.io/badge/-Kinect-00ADEF?style=for-the-badge&logo=xbox&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 
 ---
 
-### 📁 Repositorios Públicos
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EfrenDev&theme=radical" width="90%" />
-</p>
+### 📂 Algunos Repositorios Destacados
+- 🔧 [Simulador Urbano SUMO](https://github.com/EfrenDev/sumo-urban-sim)
+- 🤖 [OptiScan3D – Reconocimiento con Kinect](https://github.com/EfrenDev/optiscan3d)
+- 🧠 [Algoritmos de Optimización Multiobjetivo (MOPSO)](https://github.com/EfrenDev/mopso)
+- 🔐 [Proyecto de Ciberseguridad Básica](https://github.com/EfrenDev/ciberseguridad101)
+
 
 ---
 
