@@ -2,17 +2,17 @@
 <h3 align="center">Estudiante de Ingeniería en Ciencias de la Computación | Apasionado por la Ciberseguridad y Sistemas Embebidos</h3>
 
 <p align="center">
-  👾 Explorador del bajo nivel: desde registros hasta exploits.<br>
+  💻 Apasionado por la computación, el aprendizaje continuo y la creación de soluciones inteligente.<br>
+  🚀 Buscando crecer como profesional en tecnología, IA, ciberseguridad y electronica.<br>
   🛡️ Enfocado en la seguridad informática con énfasis en sistemas embebidos y hardware hacking.<br>
-  🔧 Me encanta combinar electrónica, programación y análisis para construir sistemas robustos y seguros.<br>
+  🔧 Me encanta combinar electrónica, programación y análisis. <br>
 </p>
 
 ---
 
 ### 👨‍💻 Sobre mí
 - 🎓 Estudiante de Ingeniería en Ciencias de la Computación en la BUAP
-- 🔬 Enfocado en **ciberseguridad embebida**, **sistemas distribuidos** y **machine learning aplicado**
-- 📡 Explorando ataques de canal lateral, reversing y automatización con scripts
+- 🔬 Enfocado en **ciberseguridad embebida** y **sistemas distribuidos**
 - 🌐 Apasionado por Linux, hardware libre y la cultura hacker ética
 
 ---
@@ -24,15 +24,12 @@
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/-Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
-![Assembly](https://img.shields.io/badge/-ASM-6E4C13?style=for-the-badge&logo=assemblyscript&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
 
 #### Tecnologías y Herramientas
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Ghidra](https://img.shields.io/badge/-Ghidra-FB4F14?style=for-the-badge&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![STM32](https://img.shields.io/badge/-STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
 ![Kicad](https://img.shields.io/badge/-KiCad-314CB6?style=for-the-badge&logo=kicad&logoColor=white)
 ![SUMO](https://img.shields.io/badge/-SUMO-005571?style=for-the-badge&logo=data&logoColor=white)
 
