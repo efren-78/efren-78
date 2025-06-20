@@ -37,9 +37,7 @@
 
 ### 📡 Proyectos Destacados
 
-- 🔐 [Embedded Hacking Lab](https://github.com/efren-78/embedded-hacking-lab) — scripts y prácticas de reversing, UART, JTAG, etc.
 - 🚦 [Simulador Urbano SUMO](https://github.com/efren-78/simulador-urbano) — Simulación de tráfico urbano con SUMO y TraCI
-- 🤖 [AI para Visión Artificial](https://github.com/efren-78/opti-scan-3d) — Escaneo 3D + clasificación con redes neuronales
 
 ---
 
