@@ -25,6 +25,7 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/-Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-007396?style=for-the-badge&logo=sql&logoColor=white)
 
 #### Tecnologías y Herramientas
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
