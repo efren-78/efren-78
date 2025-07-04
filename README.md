@@ -26,12 +26,12 @@
 ![Bash](https://img.shields.io/badge/-Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-007396?style=for-the-badge&logo=sql&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-007396?style=for-the-badge&logo=php&logoColor=white)
 
 #### Tecnologías y Herramientas
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Kicad](https://img.shields.io/badge/-KiCad-314CB6?style=for-the-badge&logo=kicad&logoColor=white)
 ![SUMO](https://img.shields.io/badge/-SUMO-005571?style=for-the-badge&logo=data&logoColor=white)
 
 ---
