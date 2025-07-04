@@ -48,8 +48,4 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/efren-curi-6a232134b/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/efren-78)
 
----
-
-### 🚀 Frase que me motiva:
-> "Hack the system, understand the machine, secure the future."
 
