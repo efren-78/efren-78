@@ -36,6 +36,22 @@
 
 ---
 
+### 📊 Metodología y Modelado
+
+#### Metodologías Ágiles
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Scrum_process.svg/1200px-Scrum_process.svg.png" alt="Proceso Scrum" width="400">
+  <em>Metodología Scrum para desarrollo ágil</em>
+</p>
+
+#### Diagramas UML
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/UML_diagrams_overview.svg/1200px-UML_diagrams_overview.svg.png" alt="Tipos de diagramas UML" width="400">
+  <em>Diagramas UML para modelado de sistemas</em>
+</p>
+
+---
+
 ### 📡 Proyectos Destacados
 
 - 🚦 [Simulador Urbano SUMO](https://github.com/efren-78/simulador-urbano) — Simulación de tráfico urbano con SUMO y TraCI
