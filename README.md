@@ -38,17 +38,14 @@
 
 ### 📊 Metodología y Modelado
 
-#### Metodologías Ágiles
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Scrum_process.svg/1200px-Scrum_process.svg.png" alt="Proceso Scrum" width="400">
-  <em>Metodología Scrum para desarrollo ágil</em>
+  <img src="https://img.shields.io/badge/-Scrum-6DB33F?style=for-the-badge&logo=Scrum%20Alliance&logoColor=white">
+  <img src="https://img.shields.io/badge/-UML-0D1117?style=for-the-badge&logo=data&logoColor=white">
 </p>
 
-#### Diagramas UML
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/UML_diagrams_overview.svg/1200px-UML_diagrams_overview.svg.png" alt="Tipos de diagramas UML" width="400">
-  <em>Diagramas UML para modelado de sistemas</em>
-</p>
+- **Scrum:** Metodología ágil aplicada a planificación, gestión de sprints y entregas incrementales.
+- **UML:** Modelado de sistemas con diagramas de clases, casos de uso y secuencia.
+
 
 ---
 
