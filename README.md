@@ -44,6 +44,10 @@ Soy estudiante de Ingeniería en Ciencias de la Computación en la BUAP. Mi enfo
 - 🚦 [Simulador Urbano SUMO](https://github.com/efren-78/simulador-urbano) — Simulación de tráfico urbano con SUMO y TraCI
 
 ---
+### 🌎 Lenguajes 
+- Ingles (intermedio)
+- Aleman (basico)
+--- 
 
 ### 📬 Contacto
 
