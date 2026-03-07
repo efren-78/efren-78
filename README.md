@@ -1,19 +1,9 @@
-<h1 align="center">🔐⚡ Hola, soy Efren ⚡🔐</h1>
-<h3 align="center">Estudiante de Ingeniería en Ciencias de la Computación | Apasionado por la Ciberseguridad y Sistemas Embebidos</h3>
+<h1 align="center"> Efren Curi </h1>
+<h3 align="center"> Embedded Systems | Cibersecurity | IoT | AI </h3>
 
 <p align="center">
-  💻 Apasionado por la computación, el aprendizaje continuo y la creación de soluciones inteligente.<br>
-  🚀 Buscando crecer como profesional en tecnología, IA, ciberseguridad y electronica.<br>
-  🛡️ Enfocado en la seguridad informática con énfasis en sistemas embebidos y hardware hacking.<br>
-  🔧 Me encanta combinar electrónica, programación y análisis. <br>
+Soy estudiante de Ingeniería en Ciencias de la Computación en la BUAP. Mi enfoque es la intersección entre el hardware y el software seguro, con especial interés en la industria automotriz y la protección de sistemas críticos.
 </p>
-
----
-
-### 👨‍💻 Sobre mí
-- 🎓 Estudiante de Ingeniería en Ciencias de la Computación en la BUAP
-- 🔬 Enfocado en **ciberseguridad embebida** y **sistemas distribuidos**
-- 🌐 Apasionado por Linux, hardware libre y la cultura hacker ética
 
 ---
 
