@@ -16,15 +16,15 @@
 
 ---
 
-### 🛠️ Technical Stack
+### Technical Stack
 
-#### 🏎️ Automotive & Embedded
+#### Automotive & Embedded
 `C` `C++` `Microcontrollers (STM32/ESP32)` `SUMO (Traffic Simulation)` `CAN Bus (Learning)` `Protoboard Prototyping`
 
-#### 🛡️ Cybersecurity & Networking
+#### Cybersecurity & Networking
 `Wireshark` `Linux` `Bash` `Network Security` `Secure Coding`
 
-#### 💻 Programming Languages & Tools
+#### Programming Languages & Tools
 <p align="left">
   <img src="https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white">
@@ -38,21 +38,21 @@
 
 ---
 
-### 📂 Featured Projects
+### Featured Projects
 
 * **[Simulador Urbano SUMO](https://github.com/efren-78/simulador-urbano)** — Urban traffic simulation using SUMO and TraCI for autonomous mobility analysis.
 * **Circuit Analysis & Prototyping** — Advanced Wheatstone Bridge & complex resistive network design (Simulated & Physical).
 
 ---
 
-### 📐 Methodology & Modeling
+### Methodology & Modeling
 
 * **Scrum:** Agile methodology applied to sprint planning and incremental deliveries.
 * **UML:** System modeling with class, use case, and sequence diagrams.
 
 ---
 
-### 📊 GitHub Stats & Contact
+### GitHub Stats & Contact
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=efren-78&show_icons=true&theme=tokyonight" alt="Efren's Stats" />
