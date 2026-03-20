@@ -2,14 +2,19 @@
 <h3 align="center"> Embedded Systems | Cibersecurity | IoT | AI </h3>
 
 <p align="center">
-Soy estudiante de Ingeniería en Ciencias de la Computación en la BUAP. Mi enfoque es la intersección entre el hardware y el software seguro, con especial interés en la industria automotriz y la protección de sistemas críticos.
+> Computer Science Engineering Student at BUAP. Passionate about secure hardware-software interaction and robust automotive solutions.
 </p>
 
 ---
 
-### ⚙️ Lenguajes y Tecnologías
+### Skills & Tools
+### Automotive & Embedded
+`C` `C++` `Microcontrollers (STM32/ESP32)` `SUMO (Traffic Simulation)` `CAN Bus (Learning)`
 
-#### Lenguajes de Programación
+### Cybersecurity & Networking
+`Wireshark` `Linux` `Bash` `Network Security`
+
+#### Programming Languages
 ![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -18,15 +23,12 @@ Soy estudiante de Ingeniería en Ciencias de la Computación en la BUAP. Mi enfo
 ![SQL](https://img.shields.io/badge/-SQL-007396?style=for-the-badge&logo=sql&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-007396?style=for-the-badge&logo=php&logoColor=white)
 
-#### Tecnologías y Herramientas
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![SUMO](https://img.shields.io/badge/-SUMO-005571?style=for-the-badge&logo=data&logoColor=white)
+###  Languages
+- **Spanish:** Native
+- **English:** [Nivel, ej: B2]
+- **German:** [Nivel, ej: A2/B1 - Currently Learning]
 
----
-
-### 📊 Metodología y Modelado
+### Metodología y Modelado
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Scrum-6DB33F?style=for-the-badge&logo=Scrum%20Alliance&logoColor=white">
@@ -39,17 +41,19 @@ Soy estudiante de Ingeniería en Ciencias de la Computación en la BUAP. Mi enfo
 
 ---
 
-### 📡 Proyectos Destacados
+### Projects
 
-- 🚦 [Simulador Urbano SUMO](https://github.com/efren-78/simulador-urbano) — Simulación de tráfico urbano con SUMO y TraCI
+-  [Simulador Urbano SUMO](https://github.com/efren-78/simulador-urbano) — Simulación de tráfico urbano con SUMO y TraCI
 
 ---
-### 🌎 Lenguajes 
-- Ingles (intermedio)
-- Aleman (basico)
---- 
+### Languages
+- **Spanish:** Native
+- **English:** [Nivel: B1]
+- **German:** [Nivel: A1 Currently Learning]
 
-### 📬 Contacto
+## GitHub Stats
+![Your Stats](https://github-readme-stats.vercel.app/api?username=efren-78&show_icons=true&theme=tokyonight)
+### Contact
 
 [![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:curiefren78@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/efren-curi-6a232134b/)
