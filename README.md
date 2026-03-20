@@ -1,62 +1,68 @@
 <h1 align="center"> Efren Curi </h1>
-<h3 align="center"> Embedded Systems | Cibersecurity | IoT | AI </h3>
+<p align="center">
+  <strong>Computer Science Engineering Student @ BUAP</strong><br>
+  Embedded Systems | Cybersecurity | Automotive IoT | AI
+</p>
 
 <p align="center">
-> Computer Science Engineering Student at BUAP. Passionate about secure hardware-software interaction and robust automotive solutions.
+  <img src="https://img.shields.io/badge/-Spanish-yellow?style=flat-square&logo=spain&logoColor=white">
+  <img src="https://img.shields.io/badge/-English%20B1-blue?style=flat-square&logo=england&logoColor=white">
+  <img src="https://img.shields.io/badge/-German%20A1%20(Learning)-red?style=flat-square&logo=germany&logoColor=white">
+</p>
+
+<p align="center">
+  <em>Passionate about secure hardware-software interaction and robust automotive solutions. Focused on developing reliable systems for critical environments.</em>
 </p>
 
 ---
 
-### Skills & Tools
-### Automotive & Embedded
-`C` `C++` `Microcontrollers (STM32/ESP32)` `SUMO (Traffic Simulation)` `CAN Bus (Learning)`
+### 🛠️ Technical Stack
 
-### Cybersecurity & Networking
-`Wireshark` `Linux` `Bash` `Network Security`
+#### 🏎️ Automotive & Embedded
+`C` `C++` `Microcontrollers (STM32/ESP32)` `SUMO (Traffic Simulation)` `CAN Bus (Learning)` `Protoboard Prototyping`
 
-#### Programming Languages
-![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/-Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-007396?style=for-the-badge&logo=sql&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-007396?style=for-the-badge&logo=php&logoColor=white)
+#### 🛡️ Cybersecurity & Networking
+`Wireshark` `Linux` `Bash` `Network Security` `Secure Coding`
 
-###  Languages
-- **Spanish:** Native
-- **English:** [Nivel, ej: B2]
-- **German:** [Nivel, ej: A2/B1 - Currently Learning]
-
-### Metodología y Modelado
-
-<p align="center">
-  <img src="https://img.shields.io/badge/-Scrum-6DB33F?style=for-the-badge&logo=Scrum%20Alliance&logoColor=white">
-  <img src="https://img.shields.io/badge/-UML-0D1117?style=for-the-badge&logo=data&logoColor=white">
+#### 💻 Programming Languages & Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white">
+  <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white">
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/-Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white">
+  <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </p>
 
-- **Scrum:** Metodología ágil aplicada a planificación, gestión de sprints y entregas incrementales.
-- **UML:** Modelado de sistemas con diagramas de clases, casos de uso y secuencia.
+---
 
+### 📂 Featured Projects
+
+* **[Simulador Urbano SUMO](https://github.com/efren-78/simulador-urbano)** — Urban traffic simulation using SUMO and TraCI for autonomous mobility analysis.
+* **Circuit Analysis & Prototyping** — Advanced Wheatstone Bridge & complex resistive network design (Simulated & Physical).
 
 ---
 
-### Projects
+### 📐 Methodology & Modeling
 
--  [Simulador Urbano SUMO](https://github.com/efren-78/simulador-urbano) — Simulación de tráfico urbano con SUMO y TraCI
+* **Scrum:** Agile methodology applied to sprint planning and incremental deliveries.
+* **UML:** System modeling with class, use case, and sequence diagrams.
 
 ---
-### Languages
-- **Spanish:** Native
-- **English:** [Nivel: B1]
-- **German:** [Nivel: A1 Currently Learning]
 
-## GitHub Stats
-![Your Stats](https://github-readme-stats.vercel.app/api?username=efren-78&show_icons=true&theme=tokyonight)
-### Contact
+### 📊 GitHub Stats & Contact
 
-[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:curiefren78@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/efren-curi-6a232134b/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/efren-78)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=efren-78&show_icons=true&theme=tokyonight" alt="Efren's Stats" />
+</p>
 
-
+<p align="center">
+  <a href="mailto:curiefren78@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/efren-curi-6a232134b/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</p>
