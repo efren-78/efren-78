@@ -41,7 +41,7 @@
 ### Featured Projects
 
 * **[Simulador Urbano SUMO](https://github.com/efren-78/simulador-urbano)** — Urban traffic simulation using SUMO and TraCI for autonomous mobility analysis.
-* **Circuit Analysis & Prototyping** — Advanced Wheatstone Bridge & complex resistive network design (Simulated & Physical).
+* **[Simulacion Distribuida de Montecarlo](https://github.com/efren-78/montecarlo_sistemadistribuido)** - Distributed Montecarlo Simulation using courier broker (RabbitMQ)
 
 ---
 
