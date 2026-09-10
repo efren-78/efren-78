@@ -1,8 +1,11 @@
 <h1 align="center">Efren Curi</h1>
 
 <p align="center">
-  <strong>Computer Science Engineering Student @ BUAP</strong><br>
-  Embedded Systems | Cybersecurity | Automotive IoT | AI
+  **'Embedded Systems'** | **'Cybersecurity'** | **'Automotrice/IoT'** | **'AI'**
+
+  I'm Computer Science student from México. I´m just doing personals projects, trying better my programming skills.
+
+  https://www.linkedin.com/in/efren-curi-6a232134b/
 </p>
 
 ## Tech Stack
@@ -15,16 +18,10 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-## Proyectos destacados
-
+## A little bit about me
 - **[Simulacion Distribuida de Montecarlo](https://github.com/efren-78/montecarlo_sistemadistribuido)** — Distributed Montecarlo Simulation using courier broker (RabbitMQ)
 
-## GitHub Stats & Contact
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=efren-78&show_icons=true&theme=tokyonight" alt="Efren's Stats" />
-</p>
-
+#
 <p align="center">
   <a href="mailto:curiefren78@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
