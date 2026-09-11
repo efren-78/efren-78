@@ -24,6 +24,12 @@
 - **[Intrusion Detection Systems](https://github.com/efren-78/ids)** -> Automates network threat detection by alerting security administrators to known or potential threats.
 - **[Tag Management System](https://github.com/efren-78/tag-management-zpl)** -> Label management system for working with editable templates and Zebra printers (e.g., 110xi4).
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/efren-78/efren-78/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/efren-78/efren-78/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/efren-78/efren-78/output/github-contribution-grid-snake.svg" />
+</picture>
+
 #
 <p align="center">
   <a href="mailto:curiefren78@gmail.com">
